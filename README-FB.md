@@ -5,9 +5,6 @@
 ![무한스크롤](https://user-images.githubusercontent.com/100342241/160211654-708c902b-6481-4fa1-876b-5b4cc1075972.gif)
 
 
-<br><br>
-
-
 2. 게시물 정렬 (최신순/조회수순/댓글순/좋아요순)
 ![정렬](https://user-images.githubusercontent.com/100342241/160211664-4bfea580-b153-426e-b75d-0ff275398378.gif)
 
