@@ -27,21 +27,24 @@
 <br><br>
 
 6.게시물 상세보기
-https://user-images.githubusercontent.com/100342241/160204222-58cc1b50-7137-4d9f-909f-46addd4d7919.mp4
+
+![수정삭제](https://user-images.githubusercontent.com/100342241/160206968-8974a509-0692-45b7-8d90-172f1895c569.gif)
 
 
 <br><br>
 
 
 7.게시물 (좋아요,북마크)
-https://user-images.githubusercontent.com/100342241/160204902-5aae6969-3028-4ecf-81db-5357b13b48e4.mp4
 
+
+![좋아요북마크](https://user-images.githubusercontent.com/100342241/160207278-c234a381-7ff7-4427-8d69-d03e9d381fba.gif)
 
 
 
 <br><br>
 8.게시글에 대한 댓글(작성,삭제,대댓글)
-https://user-images.githubusercontent.com/100342241/160204359-18f12d8f-bd93-4186-a469-f8344bfcc16a.mp4
+
+![댓글기능1](https://user-images.githubusercontent.com/100342241/160207898-98c977bb-6e19-4597-880a-f84a8439e865.gif)
 
 
 <br><br>
