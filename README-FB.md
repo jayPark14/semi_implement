@@ -6,8 +6,9 @@
 
 
 2. 게시물 정렬 (최신순/조회수순/댓글순/좋아요순)
-![정렬](https://user-images.githubusercontent.com/100342241/160211664-4bfea580-b153-426e-b75d-0ff275398378.gif)
 
+
+![정렬](https://user-images.githubusercontent.com/100342241/160212179-1bcfc447-15d5-4204-a1ed-a6efad8a48bf.gif)
 
 <br><br>
 3. 게시물 검색 (제목/작성자/내용)
