@@ -23,12 +23,15 @@
 ![카테고리](https://user-images.githubusercontent.com/100342241/160195724-bb7542a4-aa03-473f-a34d-2bf38d291eec.gif)
 <br><br>
 5.게시물 작성
-![게시물 작성](https://user-images.githubusercontent.com/100342241/160203219-61389868-a621-4062-af2e-fff12869fb39.gif)
+![게시물작성](https://user-images.githubusercontent.com/100342241/160208303-f023fc50-d52b-46fb-8a06-11a59bc6d0b1.gif)
+
+
 <br><br>
 
-6.게시물 상세보기
+6.게시물 상세보기 (수정,삭제)
 
-![수정삭제](https://user-images.githubusercontent.com/100342241/160206968-8974a509-0692-45b7-8d90-172f1895c569.gif)
+![수정삭제](https://user-images.githubusercontent.com/100342241/160208289-b85a2974-bc58-4672-97db-a9f3d410bb73.gif)
+
 
 
 <br><br>
