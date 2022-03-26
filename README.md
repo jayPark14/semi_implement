@@ -89,7 +89,7 @@
 
 ### 댓글 정렬
 ![댓글기능2](https://user-images.githubusercontent.com/100342241/160195580-4b80f88d-8bb4-4da4-b65e-556c6d55f6aa.gif)
-- 댓글에 좋아요를 누를고 취소할 수 있고, 최신 및 인기순으로 댓글 정렬이 가능합니다
+- 댓글에 좋아요를 누르거나 취소할 수 있고, 최신 및 인기순으로 댓글 정렬이 가능합니다
 - [JSP 상세보기 코드보기 Click! :monocle_face:](https://github.com/jayPark14/team1/blob/main/semiproject_team1/src/main/webapp/WEB-INF/views/board/boardDetail.jsp)
 - [Controller 코드보기 Click! 🔍️](https://github.com/jayPark14/team1/blob/main/semiproject_team1/src/main/java/com/semi/controller/Board_allController.java)
 
